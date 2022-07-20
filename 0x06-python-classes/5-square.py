@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """defines a class called square"""
 
@@ -44,3 +43,4 @@ class Square:
                 for j in range(self.__size):
                     print("#", end="")
                 print()
+Footer
