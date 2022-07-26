@@ -59,4 +59,3 @@ if __name__ == "__main__":
                     nqueens(x + 1)  # increases x value till n
 
     nqueens(0)  # starts the process
-Footer
