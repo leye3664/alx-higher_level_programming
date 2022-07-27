@@ -2,7 +2,7 @@
 """
 File: 2-matrix_divided.py
 Desc: This module contains one function matrix_divided(matrix, div)
-Author: Ilodiuba Victor (victornnamdii)
+Author: Oluleye Olumide (leye)
 DAte Created: 23 Jul 2022
 """
 
