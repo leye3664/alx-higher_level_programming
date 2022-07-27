@@ -2,7 +2,7 @@
 """
 File: 0-add_integer.py
 Desc: This module supplies one function, add_integer(a, b)
-Author: Ilodiuba Victor (victornnamdii)
+Author: Oluleye Olumide (leye)
 Date Created: Jul 23 2022
 """
 
